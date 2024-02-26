@@ -1,0 +1,193 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+#nav{
+    background-color: rgb(159 31 72);;
+    height: 42px;
+    font-size: 20px;    
+}
+
+button{
+    background-color:rgb(224 158 120);
+    font-size: 18px;
+    color: white;
+}
+  
+#logo{
+    color: rgb(241, 98, 37);
+}
+
+a{
+    margin-right: 170px;
+    text-decoration: none;
+}
+
+.contentbox {
+    height: 100px;
+    width: 100px;
+}
+
+#content{
+    height: 700px;
+    background-image: url("https://images.unsplash.com/photo-1477506350614-fcdc29a3b157?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+
+footer{
+    background-color: rgb(184 0 106);
+    text-align: center;
+    font-size: 50px;
+}
+
+.pic{
+    height: 300px;
+    margin-left: 1069px;
+    border-radius: 35%;
+    position: absolute;
+    right: 25px;
+}
+
+.pic2{
+    height: 400px;
+    margin-left: 500px;
+    position: absolute;
+    border-radius: 63%;
+    top: 250px;
+    left: 350px;
+}
+
+.pic3{
+    height: 400px;
+    margin-left: 500px;
+    position: absolute;
+    border-radius: 80%;
+    top: 345px;
+    left: 600px;
+    
+}
+.star{
+    font-family: cursive;
+    height: 90px;
+    color: black;
+    background-color: white,.5;
+    padding-right: 25px;
+    position: absolute;
+    left: 190px;
+}
+
+.click{
+    font-family: cursive;
+    width: 90px;
+    height: 50px;
+    position: absolute;
+    left: 275px;
+    bottom: 415px;
+    background-color: pink;
+    color: #3a3fe8;
+    border-radius: 30%;
+}
+.click1{
+    font-family: cursive;
+    width: 90px;
+    height: 50px;
+    position: absolute;
+    left: 500px;
+    bottom: 415px;
+    background-color: pink;
+    color: #3a3fe8;
+    border-radius: 30%;
+
+}
+
+h2{
+    font-family: cursive;
+    height: 90px;
+    padding-right: 25px;
+    padding-left: 190px;
+    position: absolute;
+    color: rgb(210, 23, 23);
+    block-size: 15px;
+    padding-top: 150px;
+
+}
+
+.one{
+    font-family: cursive;
+    height: 90px;
+    padding-right: 25px;
+    padding-left: 190px;
+    position: absolute;
+    color: rgb(210, 23, 23);
+    block-size: 15px;
+    padding-top: 250px;
+}
+#one{
+    position: absolute;
+    font-family: cursive;
+    left: 300px;
+    bottom: -375px;
+    background-color: rgb(209, 168, 248);
+    color: rgb(203, 78, 78);
+    
+
+}
+.Two{
+    font-family: cursive;
+    height: 90px;
+    padding-right: 25px;
+    padding-left: 190px;
+    position: absolute;
+    color: rgb(210, 23, 23);
+    block-size: 15px;
+    padding-top: 350px;
+}
+#Two{
+    position: absolute;
+    font-family: cursive;
+    left: 300px;
+    bottom: -500px;
+    background-color: rgb(209, 168, 248);
+    color: rgb(203, 78, 78);
+
+}
+.Three{
+    font-family: cursive;
+    height: 90px;
+    padding-right: 25px;
+    padding-left: 190px;
+    position: absolute;
+    color: rgb(210, 23, 23);
+    block-size: 15px;
+    padding-top: 455px;
+}
+.Four{
+    font-family: cursive;
+    height: 90px;
+    padding-right: 25px;
+    padding-left: 72%;
+    position: absolute;
+    color: rgb(210, 23, 23);
+    block-size: 15px;
+    padding-top: 150px;
+}
+.Five{
+    font-family: cursive;
+    height: 90px;
+    padding-right: 25px;
+    padding-left: 72%;
+    position: absolute;
+    color: rgb(210, 23, 23);
+    block-size: 15px;
+    padding-top: 250px;
+} 
+#content2{
+    height: 700px;
+    background-image: url("https://images.unsplash.com/photo-1483137140003-ae073b395549?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+
+  
+
